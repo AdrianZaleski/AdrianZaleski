@@ -1,4 +1,4 @@
-<h2>Hello there! My name is @AdrianZaleski</h2>
+<h2>Hello there! My name is AdrianZaleski</h2>
 
 I am a beginner programmer in Python, but also I have learned basics of Django, SQL, HTML5, CSS. 
 I had previously contact with C++, but at the studies I prefered 3D modeling and reverse engineering. During my working experience I had contact with Python, and I wanted to gain knowladge how to use it. 
