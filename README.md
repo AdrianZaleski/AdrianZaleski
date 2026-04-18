@@ -1,12 +1,6 @@
-<h2>Hello there! My name is AdrianZaleski</h2>
+<h2>Hello there! My name is Adrian Zaleski</h2>
 
-I am a beginner programmer in Python, but also I have learned basics of Django, SQL, HTML5, CSS. 
-I had previously contact with C++, but at the studies I prefered 3D modeling and reverse engineering. During my working experience I had contact with Python, and I wanted to gain knowladge how to use it. 
- 
-
-<h3>Software Development Academy Course</h3>
-I have the pleasure to participate in the "Python from Basics" course organized by the Software Development Academy. I am at the end of the course but still I have many things to learn. 
-
+I am a Python developer, with Postgresql. Curently working as Full-Stack developer (but on CV it is a single programmer), so I have to learn many things but not enought time to get them all.  
 
 <h4>Maybe something different than programming?</h4>
 I’m interested in Reverse Engineering, 3D Printing, WW2 History, Reenactment, vintage motorization.  
